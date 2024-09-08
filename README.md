@@ -20,4 +20,4 @@ Any PC Connected to the internet.
 - Yes, you can use it with as little as 0.1 sol.
 
 ## How to buy the bot?
-contact @catblackkk1 on telegram.
+contact @Catblackkk1 on telegram.
